@@ -11,4 +11,4 @@ The formulas used to calculate the motion of the objects are Newtonian and do no
 The program will run with a PyGame GUI, while displaying the three bodies, the current generation and the current iteration of the generation. Small lines representing velocity vectors are also visible on the objects. The program will start with a small amount of time for the first simulations, and will progressively increase with the generations. If no collisions occur in a simulation, the genome (initial conditions) is assumed to be of interest and is used and mutated in the next generation.
 
 ## Notes
-The code is 100% human written.
+Made 100% by humans.
